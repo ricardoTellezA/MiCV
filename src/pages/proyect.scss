@@ -1,0 +1,23 @@
+
+
+.projects{
+    height: 300px;
+    h1{
+        margin: 50px 0 30px 0;
+    }
+
+    .project{
+        margin-bottom: 30px;
+        .image{
+            height: 200px;
+            background-color: grey;
+
+        }
+
+        .buttons{
+            display:flex;
+            justify-content: space-between;
+        }
+
+    }
+}
